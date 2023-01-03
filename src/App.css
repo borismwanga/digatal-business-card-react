@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App{
+  width: 400px;
+  border-radius: 15px;
+  background: #000;
+  overflow: hidden;
+}
+.Info{
+  width: 100%;
+}
+.profil-pic{
+  width: 100%;
+}
